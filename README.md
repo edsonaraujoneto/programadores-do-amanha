@@ -1,6 +1,6 @@
 # Sobre 🔍
 
-Através de um processo seletivo que reuniu mais de **4.800 candidatos**, fui escolhido para fazer parte da família Programadores do Amanhã e aprender a me desenvolver como profissional na área da tecnologia.
+Através de um processo seletivo que reuniu mais de **4.800 candidatos**, fui escolhido para fazer parte da família **Programadores do Amanhã** e aprender a me desenvolver como profissional na área da tecnologia.
 
 Aqui estão todos os trabalhos realizados.
 
