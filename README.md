@@ -1,10 +1,8 @@
 # Sobre 🔍
 
-Através de um processo seletivo que reuniu mais de 4.800 candidatos, fui escolhido para fazer parte da família pdA e aprender a me desenvolver como profissional na área da tecnologia e como pessoa.
+Através de um processo seletivo que reuniu mais de **4.800 candidatos**, fui escolhido para fazer parte da família Programadores do Amanhã e aprender a me desenvolver como profissional na área da tecnologia.
 
 Aqui estão todos os trabalhos realizados.
-
-Todos os códigos aqui postados são de autoria de @edsonaraujoneto
 
 ---
 # Módulos 🖥
