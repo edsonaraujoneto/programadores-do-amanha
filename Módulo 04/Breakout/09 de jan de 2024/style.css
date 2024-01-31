@@ -1,0 +1,24 @@
+
+/* PseudoCLasse */
+:root {
+    --color0: rgb(0, 0, 0);
+}
+
+h1 {
+    color: var(--color0);
+}
+
+/*PseudoCLasse */
+h1:hover {
+    color: red;
+}
+
+/* Pseudo elemento */
+p::first-line {
+    background-color: rgb(219, 85, 85);
+}
+
+/* Pseudo elemento */
+#button01:focus{
+    color: red;
+}

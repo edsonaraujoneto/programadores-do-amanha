@@ -1,0 +1,48 @@
+
+
+main {
+    > h1 {
+        font-size: 1.5em;
+        margin: 0px
+    }
+
+    > button {
+        width: 50px;
+    }
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttoes {
+    display: flex;
+    margin: auto;
+    gap: 10px
+}
+
+p {
+    margin: 10px;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
+
+.final {
+    display: flex;
+    flex-direction: row;
+}
+
+#firstbutton {
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
+
+#secondbutton {
+    color: blue;
+}
