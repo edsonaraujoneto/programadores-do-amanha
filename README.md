@@ -1,11 +1,13 @@
 # Sobre 🔍
 
-Aqui estão todos os trabalhos realizados na escola/comunidade ***Programadores do Amanhã*** (pdA)
+Através de um processo seletivo que reuniu mais de 4.800 candidatos, fui escolhido para fazer parte da família pdA e aprender a me desenvolver como profissional na área da tecnologia e como pessoa.
+
+Aqui estão todos os trabalhos realizados.
 
 Todos os códigos aqui postados são de autoria de @edsonaraujoneto
 
 ---
-# Trabalhos 🖥
+# Módulos 🖥
 
    ## 1. Módulo 01 📚
 
