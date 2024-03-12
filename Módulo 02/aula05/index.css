@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+main {
+    display: flex;
+    flex-direction: ;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+#create {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+    height: 180px;
+    flex-direction: column;
+    background-color: rgb(177, 173, 173);
+}
+
+#card {
+
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    width: 200px;
+}
